@@ -1,7 +1,7 @@
 # E-Commerce
 Olist is an e-commerce technology company that acts as a large marketplace connecting retailers to major online marketplaces, enabling businesses to increase their sales without needing their own e-commerce presence. By managing software, marketplace contracts, and logistics, Olist provides a platform for small and large businesses.
 
-# EXCEL DASHBOAR
+# EXCEL DASHBOARD
 <img width="877" height="416" alt="Image" src="https://github.com/user-attachments/assets/34caf5ff-fb3a-4e65-98bf-8f8794943387" />
 
 # REVENUE BY PRODUCT CATEGORY
