@@ -6,3 +6,6 @@ Olist is an e-commerce technology company that acts as a large marketplace conne
 
 # TABLEAU DASHBOARD
 <img width="1160" height="556" alt="Image" src="https://github.com/user-attachments/assets/7b95533f-8b9c-4e14-85f0-6ef1d7475ff6" />
+
+# PROJECT REPORT
+[E-Commerce Project Report (PPT).pptx](https://github.com/user-attachments/files/23552915/E-Commerce.Project.Report.PPT.pptx)
